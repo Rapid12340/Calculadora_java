@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Zero">0</string>
+
+    <string name="Clear">C</string>
+    <string name="Expoente">^</string>
+    <string name="Parenteses">()</string>
+    <string name="Soma">+</string>
+    <string name="Sub">-</string>
+    <string name="Mult">*</string>
+    <string name="Div">/</string>
+    <string name="MaisMenos">+/-</string>
+    <string name="Ponto">.</string>
+    <string name="Igual">=</string>
+
+    <string name="Backspace"> </string>
+
+    <string name="Display">Introduzir Valor</string>
+</resources>
